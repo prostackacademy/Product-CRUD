@@ -1,0 +1,12 @@
+
+GET http://127.0.0.1:5000/api/products
+
+
+DELETE http://127.0.0.1:5000/api/products/63f86202f203e53c40fe736
+
+
+
+
+http://127.0.0.1:5000/products
+
+
