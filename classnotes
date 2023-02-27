@@ -1,4 +1,8 @@
 
+client>npm i axios bootstrap@4 react-router-dom@5
+
+
+
 /*
     USAGE : Get all the products
     URL : http://127.0.0.1:5000/api/products
